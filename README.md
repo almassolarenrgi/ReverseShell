@@ -12,3 +12,4 @@ You can make it more professional by adding Pubg game icon to .exe file to make 
 There're many ways of getting this payload file to the target's machine, figure out a way.
 
 ***Don't Forget, Only use for educational purposes*** 
+***Don't Forget, Only use for educational purposes*** M
