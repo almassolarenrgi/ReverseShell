@@ -1,0 +1,7 @@
+{
+    "iis.configDir": "",
+    "aide.convertLanguagePairs": {
+        "log": "abap",
+        "json": "abap"
+    }
+}

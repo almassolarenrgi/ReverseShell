@@ -1,0 +1,5 @@
+{
+    "iis.configDir": ""
+}# Using npx (no installation required)
+npx @google/gemini-clip install -g @google/gemini-cli
+sudo port install gemini-cli

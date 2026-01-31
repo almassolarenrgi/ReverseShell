@@ -1,0 +1,4 @@
+{
+    "iis.configDir": ""
+}# Using npx (no installation required)
+npx @google/gemini-cli
